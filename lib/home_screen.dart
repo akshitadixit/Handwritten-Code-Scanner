@@ -151,6 +151,10 @@ class _HomePageState extends State<HomePage> {
               ],
             )),
       )),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () => Editor(""),
+        child: const Icon(Icons.edit),
+      ),
     );
   }
 
