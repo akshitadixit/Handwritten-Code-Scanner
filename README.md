@@ -1,4 +1,4 @@
-# imgscanner
+# Handwritten Code Scanner
 
 A new Flutter project.
 
